@@ -1,7 +1,7 @@
 {
   "name": "Git Id Maker",
   "short_name": "GiD",
-  "start_url": "/2/",
+  "start_url": "/GITID/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
