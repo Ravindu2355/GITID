@@ -1,5 +1,5 @@
 var owner = localStorage.getItem("Owner") || null ; //"Ravindu2355";
-var token = localStorage.getItem("Tok") || null //"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";
+var token = localStorage.getItem("Tok") || null //"github_pat_11AVROLKI0eUaEEs8PSqt_GKlSV7Am5t1StXdg1SxMOZc80MCWUvRsM3qkuinm9RDEVQGBSA6fsKCeOQj";
 
 if (owner && token) {
     document.querySelector(".OpenSection").style.display="none";
